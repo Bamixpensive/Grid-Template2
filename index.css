@@ -30,9 +30,7 @@ sidebar{
     background-color: rgba(102, 189, 81, 0.993);
     grid-column: span 4;
     padding: 30px;
-    color: white;
-    height: 300px; 
-    
+    color: white; 
 }
 content{
     background-color: rgb(102, 102, 102);
